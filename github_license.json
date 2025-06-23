@@ -1,7 +1,7 @@
 {
   "authorized_users": [
     {
-      "ip": "YOUR_SERVER_IP_HERE",
+      "ip": "127.0.0.1",
       "name": "LiveMTA",
       "key": "NEARGUARD-V4-MAIN-2025-KEY4"
     }
