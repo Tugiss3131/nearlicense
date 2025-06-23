@@ -1,0 +1,17 @@
+{
+  "authorized_users": [
+    {
+      "ip": "YOUR_SERVER_IP_HERE",
+      "name": "LiveMTA",
+      "key": "NEARGUARD-V4-MAIN-2025-KEY4"
+    }
+  ],
+  "license_info": {
+    "system": "Near Guard V4.0",
+    "version": "4.0.0",
+    "created": "2025-06-23",
+    "expires": "2029-06-23",
+    "max_users": 100,
+
+  }
+}
